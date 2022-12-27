@@ -1,7 +1,11 @@
+import { BsCart4 } from "react-icons/bs";
 
 const CartWidget = () => {
   return (
-    <div>1</div>
+    <div>
+      <BsCart4/>1
+
+    </div>
   )
 }
 
